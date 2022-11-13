@@ -20,5 +20,5 @@ while (k < indice) {
   k += 1;
   soma += k;
 }
-console.log(soma);
+console.log("A soma é: " + soma);
 //Resposta SOMA = 91
